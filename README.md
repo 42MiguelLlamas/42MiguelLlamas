@@ -1,7 +1,9 @@
 <!--![GIF Not Working](https://i.ibb.co/KL79FjX/bloggif-65aa4cfdd2083.gif)
 ![GIF Not Working](https://i.ibb.co/q0J2xBT/White-Gray-Photo-Work-Quotes-Desktop-Wallpaper-3.png)
-![GIF Not Working]()-->
 ![GIF Not Working](https://i.ibb.co/NCdrz2s/White-Gray-Photo-Work-Quotes-Desktop-Wallpaper-2.png)
+![GIF Not Working]()-->
+![GIF Not Working](https://i.ibb.co/nwJv9xb/White-Gray-Photo-Work-Quotes-Des.png)
+
 
 
 # 🎓 - 42 Student 
