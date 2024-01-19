@@ -1,4 +1,5 @@
-### Hi there 👋
+![GIF Not Working](https://i.ibb.co/Wtxp4FQ/fxk6.gif)
+# 🎓 - 42 Student 
 
 <!--
 **42MiguelLlamas/42MiguelLlamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
