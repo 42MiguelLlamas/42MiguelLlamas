@@ -1,4 +1,4 @@
-![GIF Not Working](https://i.ibb.co/jM9JMT1/xK.gif)
+![GIF Not Working](<img src="https://i.ibb.co/jM9JMT1/xK.gif" width="900")
 # 🎓 - 42 Student 
 
 <!--
