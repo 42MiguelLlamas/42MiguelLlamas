@@ -1,24 +1,66 @@
-<!--![GIF Not Working](https://i.ibb.co/KL79FjX/bloggif-65aa4cfdd2083.gif)
-![GIF Not Working](https://i.ibb.co/q0J2xBT/White-Gray-Photo-Work-Quotes-Desktop-Wallpaper-3.png)
-![GIF Not Working](https://i.ibb.co/nwJv9xb/White-Gray-Photo-Work-Quotes-Des.png)
-![GIF Not Working]()-->
-![GIF Not Working](https://i.ibb.co/NCdrz2s/White-Gray-Photo-Work-Quotes-Desktop-Wallpaper-2.png)
+![Header](https://i.ibb.co/NCdrz2s/White-Gray-Photo-Work-Quotes-Desktop-Wallpaper-2.png)
 
+# 👋 Hi, I'm Miguel Llamas  
+### Cloud & Automation Engineer | Software Developer | 42 Madrid Student  
 
+💡 Passionate about software engineering, automation, and cloud technologies.  
+I enjoy building tools that make teams faster and data smarter — always learning from real-world problems and experimenting with new technologies.
 
-# 🎓 - 42 Student 
+---
 
-<!--
-**42MiguelLlamas/42MiguelLlamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 About Me  
+- 🎓 Currently completing the **Software Engineering & Data Architecture Program** at [42 Madrid](https://www.42madrid.com).  
+- 💼 Working as an **Automation Engineer** at **Job&Talent**, developing internal tools and bots using **Python, FastAPI, Slack Bolt, and Google Cloud**.  
+- ☁️ Focused on **Cloud App Development**, **APIs**, **Automation**, and **Data Workflows**.  
+- 📚 Always exploring new topics around **LLMs**, **serverless architectures**, and **CI/CD pipelines**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 42 Projects  
+A few of my core projects from the 42 curriculum:
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| **Minishell** | Built a UNIX-like shell handling pipes, redirections, and process management. | C |
+| **Webserver** | Developed a multithreaded HTTP webserver from scratch. | C++ |
+| **Libft** | Custom C standard library implementation. | C |
+| **Get Next Line** | Implemented file reading with dynamic memory management. | C |
+
+🧮 *Each project emphasizes low-level programming, algorithmic thinking, and debugging discipline.*
+
+---
+
+## ⚙️ Personal Projects
+| Project | Description | Stack |
+|----------|--------------|-------|
+| **Slack Cost Bot** | Internal Slack agent using **LLM-based function calling** to query financial data via **BigQuery**, deployed on **Cloud Run** with CI/CD via **Cloud Build**. | Python, FastAPI, GCP, LLMs |
+| **Automation Scripts** | Google Sheets and Apps Script automations for cost analysis and reporting. | Python, JS, Apps Script |
+| **Web3 Marketplace** | Backend for a decentralized marketplace built during a hackathon. | Node.js, Web3 |
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Python, C, C++, JavaScript, SQL  
+**Cloud:** Google Cloud (BigQuery, Cloud Run, Firestore, Cloud Build), Docker  
+**Frameworks & Tools:** FastAPI, Slack Bolt, Git, UNIX, dbt, n8n  
+**Core Concepts:** APIs, Automation, CI/CD, Data Workflows, Serverless Architectures  
+
+---
+
+## 📈 Current Goals  
+- 🧩 Expand into **AWS** ecosystem (Lambda, CodeBuild, ECS).  
+- 🤖 Deepen understanding of **LLM integration and agent design**.  
+- 🚀 Keep growing as a **Cloud Engineer** capable of delivering real business impact.  
+
+---
+
+## 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguelllamas)  
+- 🧰 [GitHub](https://github.com/42MiguelLlamas)  
+- ✉️ [Email](mailto:llamasmiguel16@gmail.com)  
+
+---
+
+> “Build things that make other people faster.”  
+> — My personal motto as an engineer.
+
