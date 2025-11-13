@@ -28,13 +28,13 @@
 
 ## 🛠️ Tech Stack  
 **Languages:** C, C++, Python, JavaScript, SQL  
-**Cloud:** Google Cloud (BigQuery, Cloud Run, Firestore, Cloud Build), Docker
+**Cloud:** Google Cloud (BigQuery, Cloud Run, Firestore, Cloud Build), Docker  
 **Frameworks & Tools:** LINUX (shell, bash scripting), Git, dbt, n8n  
 
 ---
 
 ## 📈 Current Goals  
-- 🧩 Expand into **AWS** ecosystem (Lambda, CodeBuild, ECS).  
+- 🧩 Expand into **Cloud** ecosystem.  
 - 🤖 Deepen understanding of **LLM integration and agent design**.  
 - 🚀 Keep growing as a **Engineer** capable of delivering real business impact.  
 
@@ -45,7 +45,4 @@
 - ✉️ [Email](mailto:llamasmiguel16@gmail.com)  
 
 ---
-
-> “Build things that make other people faster.”  
-> — My personal motto as an engineer.
 
