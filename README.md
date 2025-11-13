@@ -15,13 +15,13 @@
 ---
 
 ## 🧩 42 Projects  
-A few of my core projects from the 42 curriculum:
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| **Minishell** | Built a UNIX-like shell handling pipes, redirections, and process management. | C |
-| **Webserver** | Developed a multithreaded HTTP webserver from scratch. | C++ |
-| **Trascendence** | Custom C standard library implementation. | C |
+| [**WebServer**](https://github.com/42MiguelLlamas/WebServer) | Developed a multithreaded HTTP web server from scratch, handling sockets, concurrency, and request parsing. Implemented configuration management and efficient I/O handling. | C++ |
+| [**Minishell**](https://github.com/42MiguelLlamas/minishell) | Built a custom UNIX shell in C supporting pipes, redirections, signal handling, and process management, closely mimicking real shell behavior. | C |
+
+🧮 *Core focus on low-level programming, systems understanding, and debugging discipline.*
 
 
 ---
