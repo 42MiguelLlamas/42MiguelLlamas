@@ -20,6 +20,7 @@
 |----------|--------------|------|
 | [**WebServer**](https://github.com/42MiguelLlamas/WebServer) | Developed a multithreaded HTTP web server from scratch, handling sockets, concurrency, and request parsing. Implemented configuration management and efficient I/O handling. | C++ |
 | [**Minishell**](https://github.com/42MiguelLlamas/minishell) | Built a custom UNIX shell in C supporting pipes, redirections, signal handling, and process management, closely mimicking real shell behavior. | C |
+| [**Trascendence**](https://github.com/42MiguelLlamas/ft_trascendence42) | Built a containerized full-stack Node.js application (Pong Game), implementing secure user authentication and a clean REST API, deployed using Docker. | Node |
 
 🧮 *Core focus on low-level programming, systems understanding, and debugging discipline.*
 
